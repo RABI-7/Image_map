@@ -213,5 +213,11 @@ Anna Nagar.html
 
 ```
 # OUTPUT!
+![Chennai](https://github.com/user-attachments/assets/0b9752f1-eccf-4bee-ae48-95c3e2912c1a)
+![Screenshot (83)](https://github.com/user-attachments/assets/f22f9dbd-fc1e-457a-bfc7-f1fc94084b81)
+![Screenshot (82)](https://github.com/user-attachments/assets/6c93a5ea-d03b-4bec-905e-d7ad2d5a50ab)
+![Screenshot (81)](https://github.com/user-attachments/assets/355ff1bd-63a1-45c7-9c5f-141875a23459)
+![Screenshot (84)](https://github.com/user-attachments/assets/4e421e71-3d51-4c1e-9c14-fd7135aeeaba)
+
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
